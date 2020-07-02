@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/challenge.dir/main.cpp.o CMakeFiles/challenge.dir/query1.cpp.o CMakeFiles/challenge.dir/Event_Detector.cpp.o  -o challenge -Wl,-rpath,/usr/local/lib /usr/local/lib/libcurl.so 

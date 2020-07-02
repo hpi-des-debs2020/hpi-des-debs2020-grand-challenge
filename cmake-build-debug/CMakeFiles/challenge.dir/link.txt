@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/challenge.dir/main.cpp.o  -o challenge -rdynamic 
